@@ -1,2 +1,2 @@
 # fid
-Fundamentals of Interactive Design Class
+This repostitory is for my Fundamentals of Interactive Design Class.
